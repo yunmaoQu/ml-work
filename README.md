@@ -47,6 +47,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## 演示视频
+如需快速了解项目效果，可观看下方演示视频：
+
+[![B站演示视频](https://img.shields.io/badge/Bilibili-演示视频-00A1D6?logo=bilibili)](https://www.bilibili.com/video/BV1MDEzz4EXL)  
+或下载本地视频文件： [点击下载演示.mp4](./show.mp4)
+
 ## 生成可视化图表
 如需单独生成/刷新可视化图表：
 ```bash
