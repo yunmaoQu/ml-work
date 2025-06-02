@@ -73,7 +73,7 @@ streamlit run app/app.py
 - **模型未生成**：请先运行`python main.py`。
 
 ## 参考
-- 详细报告见`report.md`
+- 详细报告见[report.md](https://github.com/yunmaoQu/ml-work/blob/main/report.md)
 - PPT大纲见`presentation.md`
 
 ---
